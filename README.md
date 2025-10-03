@@ -1,4 +1,4 @@
-# 👋 Salut, je suis [Killian Mathias] !
+# 👋 Salut, je suis Killian Mathias !
 
 Bienvenue sur mon profil GitHub ! 🚀
 
